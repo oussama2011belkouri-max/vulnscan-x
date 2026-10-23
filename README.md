@@ -21,6 +21,7 @@
 Clone the repository and make the script executable:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/vulnscan-x.git](https://github.com/YOUR_USERNAME/vulnscan-x.git)
+git clone https://github.com/oussama2011belkouri-max/vulnscan-x.git
 cd vulnscan-x
 chmod +x vulnscan.py
+python3 vulnscanx.py
